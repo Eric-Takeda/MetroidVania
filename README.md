@@ -46,6 +46,8 @@ Links:
  
 <p>Game Maker Studio: 
 https://gamemaker.io/en</p>
+<p>AnchorPoint:
+https://www.anchorpoint.app/</p>
 <p>NoneClass:
 https://youtube.com/playlist?list=PLKTRv0drNjJ-D6CuTsb2pC8zMUuxk3XBf&si=ieDdR1o8Fi248_-F</p>
 <p>Sprite dos Esqueletos:
